@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 143d184af9fe4270844f964f5649ff4b, type: 3}
+  m_Name: Game Config
+  m_EditorClassIdentifier: 
+  Candies:
+  - {fileID: 4156384661951326709, guid: 7536d640ab9314c4489b7bed19d028ae, type: 3}
+  - {fileID: 6949939159558647354, guid: aed2d7325c1c7425d86b1c4f0a8da2c3, type: 3}
+  - {fileID: 8915259346077679167, guid: 7f07b644ea29f416ba143760d7222d41, type: 3}
+  - {fileID: 2337163196697016308, guid: 680aff91c35f144fdbb909f6dcd4c7b2, type: 3}
+  - {fileID: 1742783925691876264, guid: 7efcb7fe066484ed1b09b19e179c6a47, type: 3}
+  - {fileID: 5194550820474442669, guid: 02b4f589f85a641108a60f164be81a95, type: 3}
+  colCount: 12
+  rowCount: 8
+  itemWidth: 7
+  itemHeight: 7
